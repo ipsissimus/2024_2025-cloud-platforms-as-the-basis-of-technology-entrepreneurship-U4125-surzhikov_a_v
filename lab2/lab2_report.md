@@ -36,5 +36,9 @@ Date of finished: 22.04.2025
 
 ![](https://github.com/ipsissimus/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/blob/main/lab2/Screenshot%20at%20Apr%2022%2021-21-27.png?raw=true)
 
+Таким образом появилась возможность распределять трафик между разными контейнерами поднятыми на разных портах
+
+![](https://github.com/ipsissimus/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/blob/main/lab2/Screenshot%20at%20Apr%2022%2021-31-59.png?raw=true)
+
  
 
