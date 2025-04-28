@@ -22,8 +22,8 @@ Date of finished: 28.04.2025
 
 Весь флоу представляет из себя такую цепочку действий
 
-![image_2025-04-28_17-21-35](/Users/iwanbranwell/Downloads/image_2025-04-28_17-21-35.png)
+![](https://github.com/ipsissimus/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/blob/main/lab4/image_2025-04-28_17-21-35.png?raw=true)
 
 Через существующий АПИ метод происходит запрос передающий в АПИ запросе файл, сконвертированный в base64. После чего вызывается модель mnist которая извлекает необходимые блоки и сопоставляет их с координатами, после чего сверяет их с существующими формами написания числовых значений. После этого происходит распознавание таблицы с баллами, а сформированный ответ в виде json отправляется обратно пользователю
 
-![diagram-export-28.04.2025-17_19_28](/Users/iwanbranwell/Documents/ИТМО/Cloud-platforms/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/lab4/diagram-export-28.04.2025-17_19_28.png)
+![](https://github.com/ipsissimus/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/blob/main/lab4/diagram-export-28.04.2025-17_19_28.png?raw=true)
