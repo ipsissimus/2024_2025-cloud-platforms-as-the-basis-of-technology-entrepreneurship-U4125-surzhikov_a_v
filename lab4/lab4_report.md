@@ -34,3 +34,4 @@ Date of finished: 28.04.2025
 
 Для деплоя этого решения используются контур приобретенный в Яндекс Облаке
 
+![](https://github.com/ipsissimus/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-surzhikov_a_v/blob/main/lab4/telegram-cloud-photo-size-2-5201703143967158396-y.jpg?raw=true)
